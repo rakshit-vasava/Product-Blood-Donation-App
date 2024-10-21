@@ -19,7 +19,7 @@ The prototype comprises **5 pages**, each addressing a critical part of the user
 ### 1. **Main Page**
 - This is the **home page** of the app. It includes the **app name** and options for **login** or **sign-up** for new users.
 
-![Main Page](./B1.png)
+<img src="assets/B1.png" align="center" width="414" height="896" style="margin-top: 40px;">
 
 ---
 
@@ -30,7 +30,7 @@ The prototype comprises **5 pages**, each addressing a critical part of the user
   - See the **number of blood bags** required and how much has been donated.
   - View **blood bank details** and navigate using the taskbar at the bottom for **home**, **notifications**, **filters**, and **profile**.
 
-![Donor Landing Page](./B2.png)
+<img src="assets/B2.png" align="center" width="414" height="896" style="margin-top: 40px;">
 
 ---
 
@@ -40,7 +40,7 @@ The prototype comprises **5 pages**, each addressing a critical part of the user
   - See how many bags of blood are still needed.
   - If the donor wishes to donate, they can click **Book Time**.
 
-![Patient Info](./B3.png)
+<img src="assets/B3.png" align="center" width="414" height="896" style="margin-top: 40px;">
 
 ---
 
@@ -48,7 +48,7 @@ The prototype comprises **5 pages**, each addressing a critical part of the user
 - After selecting to donate blood, the donor is shown a **Google Map** excerpt for easy navigation to the blood bank.
   - Donors can select a **date and time** for their donation and confirm the booking by clicking the **Confirm** button.
 
-![Confirmation Page](./B4.png)
+<img src="assets/B4.png" align="center" width="414" height="896" style="margin-top: 40px;">
 
 ---
 
@@ -57,7 +57,7 @@ The prototype comprises **5 pages**, each addressing a critical part of the user
   - Users can view their **donation history**, edit their profile, and check the number of **requests** made to them.
   - Donation history includes the **dates** and **locations** where they have donated blood in the past.
 
-![Profile Page](./B5.png)
+<img src="assets/B5.png" align="center" width="414" height="896" style="margin-top: 40px;">
 
 ---
 
